@@ -2,6 +2,16 @@
 
 Current and future Dar es Salaam Bus Rapid Transit phases, with an information snapshot of **9 October 2026**.
 
+## Subway-style map
+
+[Download the subway-style QGIS ZIP](Dar_BRT_Subway_QGIS.zip)
+
+Extract it and open `Dar_BRT_Subway_QGIS/Dar_BRT_Subway_Schematic.qgz`. This version uses 45°/90° lines, numbered phase badges, selected hub circles and an A3 portrait layout. All diagram layers are editable.
+
+![Dar BRT subway-style schematic](Dar_BRT_Subway_QGIS/Dar_BRT_Subway_Preview.png)
+
+**Schematic, not to scale.** Larger circles indicate shared corridor references, not confirmed passenger interchanges. The diagram retains the same 9 October 2026 status snapshot and uses a local diagram CRS. [Read the schematic guide](Dar_BRT_Subway_QGIS/README.md) before editing or using it.
+
 ## Download and open
 
 [Download the complete QGIS project ZIP](Dar_BRT_QGIS_Current_and_Future_Phases.zip)
