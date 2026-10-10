@@ -1,0 +1,17 @@
+source_id,publisher,title,date_or_access,url,use
+S01,DART,Current background and phase status,Undated; accessed 2026-10-09,https://dart.go.tz/pages/background,Status categories
+S02,DART,Phase 2 infrastructure inauguration,2026-08-07,https://www.dart.go.tz/,Dated home-page inauguration announcement
+S03,DART,Phase 1 and main programme corridor description,2023,https://www.dart.go.tz/news/mkataba-ujenzi-wa-mindombinu-ya-mradi-wa-dart-awamu-ya-nne-kuelekea-tegeta-wasainiwa,Phase 1 branches and extension description
+S04,DART,Phase 2 overview,Undated; accessed 2026-10-09,https://dart.go.tz/photos/dart-project-phase-two,Kilwa / Sokoine / Bandari / Changombe / Kawawa South
+S05,DART,Phase 3 overview,Undated; accessed 2026-10-09,https://dart.go.tz/photos/dart-project-phase-three,"Nyerere corridor, branch, construction stages"
+S06,DART,Phase 3 road works reported 99 percent,2026-03-16,https://www.dart.go.tz/news/ujenzi-miundombinu-ya-brt-awamu-ya-tatu-kuelekea-gongo-la-mboto-wafikia-asilimia-99,Dated progress; not an operating notice
+S07,TANROADS,Phase 4-1 reaches 65 percent,2026-10-01,https://tanroads.go.tz/news/1160/maendeleo-ya-mradi-wa-brt-awamu-ya-nne-sehemu-ya-kwanza-wafikia-asilimia-65,Progress for Package 4-1 only
+S08,DART,"ITS project-management terms of reference, Phases 3 and 4",2025; accessed 2026-10-09,https://www.dart.go.tz/uploads/documents/sw-1762933296-TORs%20for%20PMC%20for%20BRT%203%20and%204.pdf,Published programme corridors and route figures
+S09,DART,Phase 5 project management and operational-design invitation,2025-07,https://www.dart.go.tz/uploads/documents/sw-1752142614-REO-AFD-PROJECT%20MGT%20%281%29%20%281%29.pdf,Phase 5 branch scope including Veterinary-Mbagala
+S10,The Citizen,Phase V compensation dispute,2026-09-10,https://thecitizen.co.tz/tanzania/business/sh96-57-billion-compensation-dispute-puts-dar-es-salaam-brt-phase-v-project-at-risk-5589978,Recent Phase 5 implementation reporting and scope
+S11,DART,Phase 6 programme page,Undated; accessed 2026-10-09,https://www.dart.go.tz/phases/dart-project-phase-six,"Mwai Kibaki, Kimara-Kibaha and Mbagala-Vikindu"
+S12,DART,Phase 6 overview,Undated; accessed 2026-10-09,https://www.dart.go.tz/photos/dart-project-phase-six,Alternative western endpoint Kibamba
+S13,The Citizen,Phases six and seven to target high-demand routes,2026-10-06,https://www.thecitizen.co.tz/tanzania/news/national/brt-phases-six-seven-to-target-high-demand-dar-routes-5621218,"Planning review, no fixed Phase 7 alignment"
+S14,OpenStreetMap contributors,Road geometry,Retrieved 2026-10-09,https://www.openstreetmap.org/copyright,ODbL road reconstruction; not engineering GIS
+S15,Esri and contributors,World Street Map,Retrieved 2026-10-09,https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer,Background cartography; no inference of current BRT status
+S16,OSRM / OpenStreetMap contributors,Supplemental named-road geometry,Retrieved 2026-10-09,https://project-osrm.org/,Road shape proxy only; not passenger itineraries
